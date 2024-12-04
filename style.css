@@ -3,7 +3,7 @@
     src: url(Outfit/Outfit-VariableFont_wght.ttf);
 }
 body{
-    background-color: red;
+    background-color: hsl(212, 45%, 89%);
     display: flex;
     flex-direction: column;
     justify-content: center;
